@@ -15,7 +15,7 @@ public enum RequestURL {
     AppId {
         @Override
         public String toString() {
-            return "&APPID=3b17492d0ec2d9ff74a940f6f6c30d10";
+            return "&APPID=f99154b4074ab6d40bdaef30df8fb498";
         }
     },
 
